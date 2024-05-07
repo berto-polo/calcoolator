@@ -189,9 +189,6 @@ disallow complex numbers to be thrown into the mix.
 calculator.nth_root(3)          # NegativeRootError -> (³√-45 is not allowed)
 ```
 
-> 📢 Shoutout to Vytautas Beinoravičius
-> It was him who gave me the idea during an open session. Thank you! 💜
-
 #### `power(p=1, value=0)`
 
 Elevates the current memory to the p power, if a second parameter is specified,
